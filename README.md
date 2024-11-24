@@ -1,5 +1,9 @@
 # ICF EDUCA - Plataforma de Cursos
 
+<div align="center">
+  <img src="./docs/Prototipo_ICF.jpg" alt="Protótipo da interface ICF EDUCA" width="100%" />
+</div>
+
 Uma plataforma moderna para visualização de cursos educacionais, desenvolvida com as mais recentes tecnologias web.
 
 ## 🚀 Tecnologias
@@ -68,10 +72,6 @@ Contribuições são sempre bem-vindas! Para contribuir:
 3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
 
