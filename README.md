@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ICF EDUCA - Plataforma de Cursos
 
-## Getting Started
+Uma plataforma moderna para visualização de cursos educacionais, desenvolvida com as mais recentes tecnologias web.
 
-First, run the development server:
+## 🚀 Tecnologias
 
+Este projeto utiliza as seguintes tecnologias:
+
+- [Next.js 14](https://nextjs.org/) - Framework React com App Router
+- [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces
+- [TypeScript](https://www.typescriptlang.org/) - Superset JavaScript com tipagem estática
+- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utility-first
+- [Lucide React](https://lucide.dev/) - Biblioteca de ícones
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você tem os seguintes requisitos:
+
+- Node.js 18+ instalado
+- npm ou yarn como gerenciador de pacotes
+
+## 🚀 Instalação
+
+1. Clone o repositório:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/seu-usuario/icf-educa.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Acesse a pasta do projeto:
+```bash
+cd icf-educa
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Instale as dependências:
+```bash
+npm install
+# ou
+yarn install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Inicie o servidor de desenvolvimento:
+```bash
+npm run dev
+# ou
+yarn dev
+```
 
-## Learn More
+5. Acesse `http://localhost:3000` no seu navegador
 
-To learn more about Next.js, take a look at the following resources:
+## 📝 Estrutura do Projeto
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+src/
+  ├── app/
+  │   ├── components/     # Componentes React
+  │   ├── fonts/         # Fontes do projeto
+  │   ├── layout.tsx     # Layout principal
+  │   └── page.tsx       # Página inicial
+  └── ...
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🤝 Contribuindo
 
-## Deploy on Vercel
+Contribuições são sempre bem-vindas! Para contribuir:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Fork o projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 👨‍💻 Autor
+
+Seu Nome - [God and his son](https://github.com/raulhprimo)
