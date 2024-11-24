@@ -5,22 +5,22 @@ import "./globals.css";
 const futura = localFont({
   src: [
     {
-      path: "./fonts/futura/FuturaLight.ttf",
+      path: "../../public/fonts/futura/FuturaLight.ttf",
       weight: "300",
       style: "normal",
     },
     {
-      path: "./fonts/futura/FuturaBook.ttf",
+      path: "../../public/fonts/futura/FuturaBook.ttf",
       weight: "400",
       style: "normal",
     },
     {
-      path: "./fonts/futura/FuturaMedium.ttf",
+      path: "../../public/fonts/futura/FuturaMedium.ttf",
       weight: "500",
       style: "normal",
     },
     {
-      path: "./fonts/futura/FuturaBold.ttf",
+      path: "../../public/fonts/futura/FuturaBold.ttf",
       weight: "700",
       style: "normal",
     },
