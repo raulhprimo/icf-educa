@@ -74,5 +74,4 @@ Contribuições são sempre bem-vindas! Para contribuir:
 5. Abra um Pull Request
 
 ## 👨‍💻 Autor
-
-Seu Nome - [God and his son](https://github.com/raulhprimo)
+[God and his son](https://github.com/raulhprimo)
